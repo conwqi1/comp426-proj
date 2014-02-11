@@ -1,0 +1,108 @@
+body{
+	background-color:#c6E2FF;
+}
+
+div{
+	border:0px;
+	border-radius: 5px;
+	margin-bottom: 2px;
+}
+
+img{
+	height: 300px;
+	width:300px;
+	opacity: 1;
+}
+
+h2{
+	text-align: center;
+}
+
+table{
+	background-color: white;
+}
+
+.top {
+	text-align: center;
+	height: 300px;
+	width: 80%;
+	border:0px;
+	background-color: white;
+	opacity: 0.9;
+	margin-right: 10%;
+	margin-left: 10%;
+	display: inline-block;
+}
+
+.centerleft{
+	width: 25%;
+	margin-left: 10%;
+	display: inline-block;
+	background-color: white;
+	opacity: 0.9;
+}
+
+.centerright{
+	width: 50%;
+	float:right;
+	margin-right: 10%;
+	display: inline-block;
+	background-color: white;
+	opacity: 0.9;
+	height: 1320px;
+	overflow:scroll;
+}
+
+.centerright table{
+	width: 100%;
+}
+
+#xinDian{
+	clear:both;
+	height: 150px;
+	width: 80%;
+	margin-right: 10%;
+	margin-left: 10%;
+	background-color: white;
+	opacity:0.9;
+	text-align: center;
+}
+.bottom {
+	clear:both;
+	height: 100px;
+	width: 80%;
+	border:0px ;
+	margin-bottom: 10px;
+	margin-right: 10%;
+	margin-left: 10%;
+	background-color: white;
+	opacity:0.9;
+	text-align: center;
+}
+
+#cookies{
+	text-align: left;
+}
+
+#centerRightTable{
+	width: 100%;
+	height: 1300px;
+}
+
+#centerLeftTable{
+	width: 100%;
+	height: 1300px;
+}
+
+#bottomTable{
+	width: 100%; 
+}
+
+#outputBlk{
+	margin-left: 10%;
+}
+
+#piaofublock{
+	float: right;
+	display: inline-block;
+}
